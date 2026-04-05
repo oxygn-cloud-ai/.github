@@ -18,11 +18,20 @@ We build open-source developer tools that make AI coding agents more capable, fl
 
 ### [claude-skills](https://github.com/oxygn-cloud-ai/claude-skills) &nbsp; `Shell` &nbsp; `MIT`
 
-Community-built skills for Claude Code. Install a skill, type a slash command, get superpowers. Includes security auditing, risk assessment, project management workflows, and more.
+Community-built skills for Claude Code. Install a skill, type a slash command, get superpowers.
+
+| Skill | Command | What It Does |
+|-------|---------|--------------|
+| **chk1** | `/chk1` | Adversarial implementation audit — fault-finding, risk-exposing, deviation-detecting review of recent code changes |
+| **chk2** | `/chk2` | Adversarial security audit for web services — 33 sub-commands covering headers, TLS, DNS, CORS, API injection, WebSocket, WAF, JWT, brute force, scaling, and more |
+| **rr** | `/rr` | Risk register assessment — interactive 6-step workflow or autonomous batch mode with parallel sub-agents |
+
+Also includes standalone tools like **iterm2-tmux** for iTerm2 + tmux tab orchestration.
 
 ```bash
 git clone https://github.com/oxygn-cloud-ai/claude-skills.git
-cd claude-skills && ./install.sh
+cd claude-skills && ./install.sh          # install all skills
+./install.sh chk2                         # or install just one
 ```
 
 ### [uam](https://github.com/oxygn-cloud-ai/uam) &nbsp; `Python` &nbsp; `MIT`
