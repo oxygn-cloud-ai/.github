@@ -43,6 +43,10 @@ pip install git+https://github.com/oxygn-cloud-ai/uam
 uam install
 ```
 
+### [myzer](https://myzer.io)
+
+A multiplayer strategy game. Play at [myzer.io](https://myzer.io).
+
 ## Getting Started
 
 Most Oxygn tools are designed to work with **Claude Code**. If you're new:
