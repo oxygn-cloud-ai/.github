@@ -4,7 +4,7 @@
 
 **AI short deliverable consulting (SDC) and open-source tools for financial services businesses and developers**
 
-Singapore &nbsp;&bull;&nbsp; [oxygn.cloud](https://www.oxygn.cloud)
+Singapore &nbsp;&bull;&nbsp; <a href="https://www.oxygn.cloud" target="_blank">oxygn.cloud</a>
 
 ---
 
@@ -12,11 +12,11 @@ Singapore &nbsp;&bull;&nbsp; [oxygn.cloud](https://www.oxygn.cloud)
 
 ## What We Build
 
-We build open-source developer tools that make AI coding agents more capable, flexible, and productive. Our projects extend [Claude Code](https://docs.anthropic.com/en/docs/claude-code) with skills, model routing, and more.
+We build open-source developer tools that make AI coding agents more capable, flexible, and productive. Our projects extend <a href="https://docs.anthropic.com/en/docs/claude-code" target="_blank">Claude Code</a> with skills, model routing, and more.
 
 ## Projects
 
-### [claude-skills](https://github.com/oxygn-cloud-ai/claude-skills) &nbsp; `Shell` &nbsp; `MIT`
+### <a href="https://github.com/oxygn-cloud-ai/claude-skills" target="_blank">claude-skills</a> &nbsp; `Shell` &nbsp; `MIT`
 
 Community-built skills for Claude Code. Install a skill, type a slash command, get superpowers.
 
@@ -34,7 +34,7 @@ cd claude-skills && ./install.sh          # install all skills
 ./install.sh chk2                         # or install just one
 ```
 
-### [uam](https://github.com/oxygn-cloud-ai/uam) &nbsp; `Python` &nbsp; `MIT`
+### <a href="https://github.com/oxygn-cloud-ai/uam" target="_blank">uam</a> &nbsp; `Python` &nbsp; `MIT`
 
 **Use Any Model** with Claude Code — a lightweight proxy that routes API requests to any backend. Auto-discovers models from Anthropic, RunPod, OpenRouter, Ollama, and local vLLM instances.
 
@@ -43,18 +43,18 @@ pip install git+https://github.com/oxygn-cloud-ai/uam
 uam install
 ```
 
-### [myzer](https://myzer.io)
+### <a href="https://myzer.io" target="_blank">myzer</a>
 
-A single-player, AI-managed incremental game inspired by [Universal Paperclips](https://www.decisionproblem.com/paperclips/). Play at [myzer.io](https://myzer.io).
+A single-player, AI-managed incremental game inspired by <a href="https://www.decisionproblem.com/paperclips/" target="_blank">Universal Paperclips</a>. Play at <a href="https://myzer.io" target="_blank">myzer.io</a>.
 
 ## Getting Started
 
 Most Oxygn tools are designed to work with **Claude Code**. If you're new:
 
-1. Install [Claude Code](https://docs.anthropic.com/en/docs/claude-code)
-2. Install [claude-skills](https://github.com/oxygn-cloud-ai/claude-skills) for an instant toolkit of slash commands
-3. Install [uam](https://github.com/oxygn-cloud-ai/uam) if you want to use non-Anthropic models
+1. Install <a href="https://docs.anthropic.com/en/docs/claude-code" target="_blank">Claude Code</a>
+2. Install <a href="https://github.com/oxygn-cloud-ai/claude-skills" target="_blank">claude-skills</a> for an instant toolkit of slash commands
+3. Install <a href="https://github.com/oxygn-cloud-ai/uam" target="_blank">uam</a> if you want to use non-Anthropic models
 
 ## License
 
-Each project is independently licensed — see individual repos for details. Most use the [MIT License](https://opensource.org/licenses/MIT).
+Each project is independently licensed — see individual repos for details. Most use the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.
