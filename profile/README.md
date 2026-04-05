@@ -45,7 +45,7 @@ uam install
 
 ### [myzer](https://myzer.io)
 
-A multiplayer strategy game. Play at [myzer.io](https://myzer.io).
+A single-player, AI-managed incremental game inspired by [Universal Paperclips](https://www.decisionproblem.com/paperclips/). Play at [myzer.io](https://myzer.io).
 
 ## Getting Started
 
