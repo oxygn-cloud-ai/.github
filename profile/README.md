@@ -43,7 +43,7 @@ pip install git+https://github.com/oxygn-cloud-ai/uam
 uam install
 ```
 
-### <a href="https://myzr.io" target="_blank">myzer</a>
+### <a href="https://myzr.io" target="_blank">myzr</a>
 
 A single-player, AI-managed incremental game inspired by <a href="https://www.decisionproblem.com/paperclips/" target="_blank">Universal Paperclips</a>. Play at <a href="https://myzr.io" target="_blank">myzr.io</a>.
 
