@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oxygn
+<img src="assets/oxygn-logo.png" alt="Oxygn" width="400">
 
 **AI short deliverable consulting (SDC) and open-source tools for financial services businesses and developers**
 
